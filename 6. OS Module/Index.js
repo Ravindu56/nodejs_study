@@ -37,3 +37,4 @@ console.log(os.userInfo()); // Output: Object with user info
 console.log(os.homedir()); // Output: Home directory path, e.g., 'C:\\Users\\Username'
 console.log(os.availableParallelism());// Output: Number of available parallel operations, e.g., 8
 console.log(os.machine()); // Output: Machine architecture, e.g., 'x64'
+
