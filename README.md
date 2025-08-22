@@ -13,6 +13,11 @@ This repository contains various examples and modules demonstrating Node.js feat
   - **2. Callback API/**: File system operations using Callbacks.
   - **3. Sync API/**: File system operations using synchronous methods.
 - **6. OS Module/**: Examples of using the Node.js `os` module.
+- **7. URL Module/**: Demonstrates the `url` module in Node.js.
+- **8. HTTP Module/**: Examples of creating HTTP servers and handling requests.
+- **9. Routing/**: Simulates routing in Node.js applications.
+- **10. Serving File/**: Demonstrates serving static files using Node.js.
+- **11. NPM/**: Demonstrates managing npm dependencies and using `nodemon` for automatic server restarts.
 
 ## How to Use
 
